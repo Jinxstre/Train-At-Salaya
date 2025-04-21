@@ -12,7 +12,7 @@ bool isDigitsOnly(const string& str) ;
 
 void start_program()
 {
-    system("cls");
+    clearScreen();
     string level ;
     string name ;
     string input ;
